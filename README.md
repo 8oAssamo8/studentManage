@@ -1,2 +1,2 @@
 # 学生信息管理系统 studentManage
-# studentManage
+学生信息管理系统（已完成）
